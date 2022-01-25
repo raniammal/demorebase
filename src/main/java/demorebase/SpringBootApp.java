@@ -10,4 +10,8 @@ public class SpringBootApp {
 		System.out.println("Hi");
 	}
 	
+	public String hello() {
+	return "Hello Amend";
+	}
+	
 }
