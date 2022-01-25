@@ -11,7 +11,7 @@ public class SpringBootApp {
 	}
 	
 	public String hello() {
-	return "Hello Amend";
+		return "Hello Amend";
 	}
 	
 }
